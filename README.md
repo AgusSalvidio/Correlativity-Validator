@@ -4,6 +4,8 @@
 
 A Subject Correlatives Validator example on Java.
 
+[![Unit Tests](https://github.com/AgusSalvidio/Correlativity-Validator/actions/workflows/maven.yml/badge.svg)](https://github.com/AgusSalvidio/Correlativity-Validator/actions/workflows/maven.yml/badge.svg)
+
 Quick links
 
 - [**Explore the docs**](docs/)
