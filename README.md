@@ -19,6 +19,3 @@ Click [here](https://github.com/AgusSalvidio/Correlativity-Validator/docs/2023-V
 
 - The code is licensed under [MIT](LICENSE).
 - The documentation is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
-
-
-https://github.com/AgusSalvidio/Correlativity-Validator/actions/workflows/maven.yml
