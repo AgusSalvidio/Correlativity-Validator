@@ -13,7 +13,7 @@ Quick links
 - [Request a feature](https://github.com/AgusSalvidio/Correlativity-Validator/issues/new?labels=Type%3A+Feature)
 
 # Notes 📋
-Click [here](https://github.com/AgusSalvidio/Correlativity-Validator/docs/2023-Validador-de-Correlatividades.pdf) to see the requirements.
+Click [here](https://github.com/AgusSalvidio/Correlativity-Validator/blob/release-candidate/docs/2023%20-%20Validador%20de%20Correlatividades.pdf) to see the requirements.
 
 ## License
 
